@@ -6,6 +6,6 @@ Sejam bem-vindos(as) me chamo Hanani Bittencourt🏆
 
 ⚔- Atualmente estudando JavaScript
 
-🔓- Em breve React, Bootstrap...aguardem!
+🔓- Em breve repositorios em React, Bootstrap...aguardem!
 
 
