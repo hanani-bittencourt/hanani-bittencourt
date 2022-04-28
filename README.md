@@ -1,6 +1,6 @@
 Sejam bem-vindos(as) me chamo Hanani Bittencourt🏆
 
-📚- Acadêmico do curso de Ciências da computação 
+📚- Acadêmico do curso de Ciência da computação 
 <div style="display: inline_block">
 
 <h3> Front-end </h3>
