@@ -22,8 +22,7 @@ Sejam bem-vindos(as) me chamo Hanani Bittencourt🏆
 
  <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
 
- <img align="center" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
-<img align="center" alt="VS code" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg">
+ 
           
  <h3> UI/UX Designer </h3>
 
