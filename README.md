@@ -38,8 +38,7 @@ Sejam bem-vindos(as) me chamo Hanani Bittencourt🏆
           
           
           
-<h3>Banco de dados</h3> 
- <img align="center" alt="HTML" height="40" width src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+
           
  
 
