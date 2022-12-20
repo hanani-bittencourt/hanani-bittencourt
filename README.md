@@ -2,8 +2,7 @@ Olá, me chamo Hanani Bittencourt!
 Bem vindo ao meu perfil GitHub 👋
 
 📚Acadêmico do curso de Ciência da computação e desenvolvedor front-end
-- 🌱 Atualmente estou aprendendo ...
-<div style="display: inline_block">
+🌱 Atualmente estou aprendendo ...<div style="display: inline_block">
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
