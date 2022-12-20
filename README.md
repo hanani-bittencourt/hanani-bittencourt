@@ -16,14 +16,9 @@ Bem vindo ao meu perfil GitHub 👋👋👋
  <img align="center" alt="Js" height="100" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  <img align="center" alt="Js" height="100" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
           
-   
+ <br>
 
 
-
-
-<br>
-
-<br>
 </div>
 ## Estou aprendendo
 
