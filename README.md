@@ -1,9 +1,4 @@
-Olá, me chamo Hanani Bittencourt! 
-
 Bem vindo ao meu perfil GitHub 👋👋👋
-
-📚Acadêmico do curso de Ciência da computação e desenvolvedor front-end
-
 ## Ferramentas e Tecnologias
 
 <div style="display: inline_block"><img align="center" alt="HTML" height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
