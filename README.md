@@ -37,6 +37,8 @@ Bem vindo ao meu perfil GitHub 👋👋👋
 </div>
 
 ![Hanani's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanani-bittencourt&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanani-bittencourt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanani-bittencourt&langs_count=8)](https://github.com/hanani-bittencourt/github-readme-stats)
          
  
 
