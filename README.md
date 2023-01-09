@@ -36,8 +36,7 @@ Bem vindo ao meu perfil GitHub 👋👋👋
 <a href="https://www.linkedin.com/in/hanani-bittencourt-a1192215a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Hanani's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanani-bittencourt&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanani-bittencourt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
          
  
