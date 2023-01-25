@@ -1,14 +1,16 @@
 Bem vindo ao meu perfil GitHub 👋👋👋
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanani-bittencourt)
+
 ## Ferramentas e Tecnologias
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-          
+<div style="display:inline-block"><br/>
+       <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">   
+       <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+       <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
+       <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">  
+            </div>
           
           
           
@@ -20,18 +22,19 @@ Bem vindo ao meu perfil GitHub 👋👋👋
 
 
 ## Estou aprendendo
+<div style="display:inline-block"><br/>
+       <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">   
+       <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
+</div>
 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+  
           
           
-          
 
 
 
 
-## Contatos:
+## Contatos
 
 <div>
 
@@ -39,8 +42,7 @@ Bem vindo ao meu perfil GitHub 👋👋👋
 <a href="https://www.linkedin.com/in/hanani-bittencourt-a1192215a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
           
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanani-bittencourt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanani-bittencourt)](https://github.com/anuraghazra/github-readme-stats)
+
           
           
 
